@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, sou Mateus Diniz!
 
-<!--
-**mateusdinizz/mateusdinizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Estudante de Ciências da Computação | Programador e Entusiasta de Tecnologia | Atleta de Voleibol
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Cesar School**, com interesse em **desenvolvimento de software**, **automação** e **tecnologias emergentes**. Além disso, sou atleta de **voleibol** no **Sport Clube do Recife**, e busco equilibrar minha paixão pelo esporte com o desenvolvimento de soluções tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que estou aprendendo atualmente
+- **Python**: Usando para automação, análise de dados e exploração de conceitos de **aprendizado de máquina**.
+- **C++**: Aplicando no desenvolvimento de **programas para Arduino** e sistemas embarcados.
+- **Java**: Estudando para melhorar minhas habilidades em **programação orientada a objetos** e desenvolvimento de software.
+- **Desenvolvimento Web Básico**: Trabalhando com **HTML**, **CSS** e **JavaScript** para criar páginas interativas.
+- **VS Code**: Minha principal IDE para programar.
+
+## 🛠️ Ferramentas e Tecnologias
+- **Linguagens**: Python, C++, Java, JavaScript
+- **Plataformas**: Arduino
+- **Ferramentas de Desenvolvimento**: VS Code, Git, GitHub
+
+
+
+## 📫 Como me encontrar
+- **LinkedIn**: [Mateus Diniz](https://www.linkedin.com/in/mateusdinizz/)
+- **GitHub**: [github.com/mateusdiniz](https://github.com/mateusdinizz)
+- **Email**: dinizteteu456@gmail.com
+
+---
+
+✨ Obrigado por visitar meu perfil! Vamos conectar e trocar ideias! 😊
