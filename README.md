@@ -22,7 +22,3 @@ Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Ces
 - **LinkedIn**: [Mateus Diniz](https://www.linkedin.com/in/mateusdinizz/)
 - **GitHub**: [github.com/mateusdiniz](https://github.com/mateusdinizz)
 - **Email**: dinizteteu456@gmail.com
-
----
-
-✨ Obrigado por visitar meu perfil! Vamos conectar e trocar ideias! 😊
