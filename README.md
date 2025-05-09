@@ -1,8 +1,8 @@
 # 👋 Olá, sou Mateus Diniz!
 
-## 👨‍💻 Estudante de Ciência da Computação || Atleta de Voleibol
+## 👨‍💻 Estudante de Ciência da Computação
 
-Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Cesar School**, com interesse em **desenvolvimento de software**, **automação** e **tecnologias emergentes**. Além disso, sou atleta de **voleibol** no **Sport Clube do Recife**, e busco equilibrar minha paixão pelo esporte com o desenvolvimento de soluções tecnológicas.
+Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Cesar School**, com interesse em **desenvolvimento de software**, **automação** e **tecnologias emergentes**.
 
 ## 🚀 O que estou aprendendo atualmente
 - **Python**: Usando para automação, análise de dados e exploração de conceitos de **aprendizado de máquina**.
