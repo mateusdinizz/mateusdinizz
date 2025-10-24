@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Estudante de Ciência da Computação
 
-Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Cesar School**, com interesse em **desenvolvimento de software**, **automação** e **tecnologias emergentes**.
+Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Cesar School**, com interesse em **desenvolvimento de software**.
 
 ## 🚀 O que estou aprendendo atualmente
 - **Python**: Usando para automação, análise de dados e exploração de conceitos de **aprendizado de máquina**.
