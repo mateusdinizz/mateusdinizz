@@ -9,12 +9,10 @@ Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Ces
 - **C++**: Aplicando no desenvolvimento de **programas para Arduino** e sistemas embarcados.
 - **Java**: Estudando para melhorar minhas habilidades em **programação orientada a objetos** e desenvolvimento de software.
 - **Desenvolvimento Web Básico**: Trabalhando com **HTML**, **CSS** e **JavaScript** para criar páginas interativas.
-- **VS Code**: Minha principal IDE para programar.
 
 ## 🛠️ Ferramentas e Tecnologias
-- **Linguagens**: Python, C++, Java, JavaScript
-- **Plataformas**: Arduino
-- **Ferramentas de Desenvolvimento**: VS Code, Git, GitHub
+- **Linguagens**: Python, C e Java
+- **Ferramentas de Desenvolvimento**: VS Code, Git, GitHub e Eclipse
 
 
 
