@@ -1,22 +1,27 @@
-# 👋 Olá, sou Mateus Diniz!
+# Mateus Diniz
 
-## 👨‍💻 Estudante de Ciência da Computação
+## Estudante de Ciência da Computação
 
-Bem-vindo ao meu perfil! Sou estudante de **Ciências da Computação** na **Cesar School**, com interesse na **área de dados**.
+Olá! Sou estudante de **Ciência da Computação na CESAR School**, atualmente direcionando meus estudos e desenvolvimento profissional para a **área de Dados**.
 
-## 🚀 Alguns dos meus conhecimentos
-- **Python**: Usando para automação e **análise de dados**.
-- **C++**: Aplicado no desenvolvimento de **programas para Arduino** e sistemas embarcados.
-- **Java**: Estudando para melhorar minhas habilidades em **programação orientada a objetos** e desenvolvimento de software.
-- **Desenvolvimento Web Básico**: Trabalhando com **HTML**, **CSS** e **JavaScript** para criar páginas interativas.
+Tenho interesse em explorar diferentes áreas da Ciência da Computação e estou aberto a oportunidades que me permitam aprender, desenvolver novas habilidades e aplicar meus conhecimentos na prática.
 
-## 🛠️ Ferramentas e Tecnologias
-- **Linguagens**: Python, C e Java
-- **Ferramentas de Desenvolvimento**: VS Code, Git, GitHub e Eclipse
+## Conhecimentos
 
+* **Python** — automação e análise de dados
+* **SQL** — consultas, manipulação e análise de dados
+* **Java** — programação orientada a objetos e desenvolvimento de software
+* **C** — programação e desenvolvimento de sistemas
+* **HTML, CSS e JavaScript** — desenvolvimento web básico
 
+## Atualmente
 
-## 📫 Como me encontrar
-- **LinkedIn**: [Mateus Diniz](https://www.linkedin.com/in/mateusdinizz/)
-- **GitHub**: [github.com/mateusdiniz](https://github.com/mateusdinizz)
-- **Email**: dinizteteu456@gmail.com
+Estou aprofundando meus conhecimentos em **Dados**, buscando desenvolver habilidades em análise, manipulação e interpretação de informações.
+
+Ao mesmo tempo, continuo estudando fundamentos de **programação, banco de dados, desenvolvimento de software e tecnologia**, mantendo uma visão ampla sobre as diferentes possibilidades dentro da Ciência da Computação.
+
+## Contato
+
+* **LinkedIn:** [Mateus Diniz](https://www.linkedin.com/in/mateusdinizz/)
+* **GitHub:** [github.com/mateusdiniz](https://github.com/mateusdinizz)
+* **Email:** [dinizteteu456@gmail.com](mailto:dinizteteu456@gmail.com)
