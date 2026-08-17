@@ -8,10 +8,10 @@ Tenho interesse em explorar diferentes áreas da Ciência da Computação e esto
 
 ## Conhecimentos
 
-* **Python** — automação e análise de dados
+* **Python** — automação e manipulação de arquivos
 * **SQL** — consultas, manipulação e análise de dados
 * **Java** — programação orientada a objetos e desenvolvimento de software
-* **C** — programação e desenvolvimento de sistemas
+* **C** — programação e desenvolvimento de jogos
 * **HTML, CSS e JavaScript** — desenvolvimento web básico
 
 ## Atualmente
