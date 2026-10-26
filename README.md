@@ -14,10 +14,10 @@ Olá! Sou estudante do 5º período de Ciência da Computação na CESAR School,
 
 ## Projetos
 
-- **[Shirley Diniz Studio](link-do-repositorio)**: landing page de um salão de beleza real no Recife, em produção com domínio próprio e HTTPS. Nota 100/100 em Desempenho no PageSpeed Insights, acessibilidade, SEO local e página de privacidade conforme a LGPD. [Ver site]([link-do-site])
+- **[Shirley Diniz Studio](https://shirleydinizstudio.com.br)**: landing page de um salão de beleza real no Recife, em produção com domínio próprio e HTTPS. Nota 100/100 em Desempenho no PageSpeed Insights, acessibilidade, SEO local e página de privacidade conforme a LGPD. [Ver site]([link-do-site])
 - **[AdCapture](https://github.com/mateusdinizz/AdCapture)**: web scraping de anúncios de veículos com Selenium, pipeline de ETL com Pandas e persistência em MySQL.
-- **[Sistema de Administração de Bar]([link])**: aplicação web com Java, Spring Boot, JDBC e MySQL, com operações CRUD e dashboard em SQL.
-- **[CondoSync]([link])**: aplicação web de gestão condominial com Django.
+- **[Sistema de Administração de Bar](https://github.com/rafaferraz05/Bd-bar)**: aplicação web com Java, Spring Boot, JDBC e MySQL, com operações CRUD e dashboard em SQL.
+- **[CondoSync](https://github.com/caioguimaraesr/CondoSync)**: aplicação web de gestão condominial com Django.
 
 ## Formação
 
